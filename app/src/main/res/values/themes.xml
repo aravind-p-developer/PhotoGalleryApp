@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for the Compose app.
+         Uses a simple NoActionBar theme since Compose handles all UI. -->
+    <style name="Base.Theme.PhotoGalleryApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- No customization needed; Compose Material3 handles all theming -->
+    </style>
+
+    <style name="Theme.PhotoGalleryApp" parent="Base.Theme.PhotoGalleryApp" />
+</resources>

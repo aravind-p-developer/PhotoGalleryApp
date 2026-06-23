@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.idea/
+.kotlin/
+
+# Personal Prep & Logs
+INTERVIEW_NOTES.md
+PROJECT_EXPLANATION.md
+TEST_CASES.md
+SUBMISSION_NOTES.md
+hs_err_pid*.log
+replay_pid*.log
+
+# Keystores and signing credentials
+*.jks
+*.keystore
+keystore.properties
