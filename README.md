@@ -119,8 +119,22 @@ Hilt is the standard Dependency Injection library for Android. It eliminates man
 
 Below are screenshots of the key application flows:
 
-* **Home Screen**: ![Home Screen](screenshots/home.png)
-* **Favorites Screen**: ![Favorites Screen](screenshots/favorites.png)
-* **Create Post Screen**: ![Create Post Screen](screenshots/create_post.png)
-* **Upload Screen**: ![Upload Screen](screenshots/upload.png)
-* **Photo Detail Screen**: ![Photo Detail Screen](screenshots/detail.png)
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Favorites Screen
+
+![Favorites Screen](screenshots/favorites.png)
+
+### Create Post Screen
+
+![Create Post Screen](screenshots/create_post.png)
+
+### Upload Screen
+
+![Upload Screen](screenshots/upload.png)
+
+### Photo Detail Screen
+
+![Photo Detail Screen](screenshots/detail.png)
